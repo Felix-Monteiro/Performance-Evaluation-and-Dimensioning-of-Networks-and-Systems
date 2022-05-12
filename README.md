@@ -11,12 +11,12 @@ The main objectives of this course were to address the problem of resource manag
 * The course of Performance Evaluation and Dimensioning of Networks and Systems was divided in three modules:
 
 ## Module 1 - Discrete Event Simulation:
-* Where the aim of the laboratory work is to study the techniques for generating random variables and stochastic processes, and for programming discrete event simulators and analyse its output data. [Laboratory Report Nr1 Group 6 - DDRS.pdf](https://github.com/Felix-Saraiva/Performance-Evaluation-and-Dimensioning-of-Networks-and-Systems/files/8682563/Laboratory.Report.Nr1.Group.6.-.DDRS.pdf)
+* Where the aim of the laboratory work is to study the techniques for generating random variables and stochastic processes, and for programming discrete event simulators and analyse its output data.
 
 ## Module 2 - Performance evaluation:
-* The aim of this laboratory work is to study discrete-time Markov chains (DTMCs), continuous-time Markov chains (CTMCs), queuing systems, and their applications. [Laboratory Report Nr2 Group 6 - DDRS.pdf](https://github.com/Felix-Saraiva/Performance-Evaluation-and-Dimensioning-of-Networks-and-Systems/files/8682560/Laboratory.Report.Nr2.Group.6.-.DDRS.pdf)
+* The aim of this laboratory work is to study discrete-time Markov chains (DTMCs), continuous-time Markov chains (CTMCs), queuing systems, and their applications.
 
 ## Module 3 - Optimization:
-* The aim of this laboratory work is to study the use of optimization methods in the management and dimensioning of networks and systems. [Laboratory Report Nr3 Group 6 - DDRS.pdf](https://github.com/Felix-Saraiva/Performance-Evaluation-and-Dimensioning-of-Networks-and-Systems/files/8682567/Laboratory.Report.Nr3.Group.6.-.DDRS.pdf)
+* The aim of this laboratory work is to study the use of optimization methods in the management and dimensioning of networks and systems.
 
 
