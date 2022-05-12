@@ -11,7 +11,7 @@ The main objectives of this course were to address the problem of resource manag
 * The course of Performance Evaluation and Dimensioning of Networks and Systems was divided in three modules:
 
 ## Module 1 - Discrete Event Simulation:
-* Where the aim of the laboratory work is to study the techniques for generating random variables and stochastic processes, and for programming discrete event simulators and analyse its output data.
+* Where the aim of the laboratory work is to study the techniques for generating random variables and stochastic processes, and for programming discrete event simulators and analyse its output data. [Laboratory Report Nr1](https://github.com/Felix-Saraiva/Performance-Evaluation-and-Dimensioning-of-Networks-and-Systems/blob/main/Laboratory%20Report%20Nr1%20Group%206%20-%20DDRS.pdf)
 
 ## Module 2 - Performance evaluation:
 * The aim of this laboratory work is to study discrete-time Markov chains (DTMCs), continuous-time Markov chains (CTMCs), queuing systems, and their applications.
